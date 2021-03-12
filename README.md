@@ -4,9 +4,6 @@ DUICAN MIHNEA - IONUȚ
 334CA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ README TEMA 3 APD ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Mention: this works just fine on my system, try running it multiple times if you get
-int trouble, trying to check it.
-
 Master:
     - There is one function for the paragraph reading fork, where at first it does is
     to set the keyword for the paragraphs, according to the id of the calling thread.
